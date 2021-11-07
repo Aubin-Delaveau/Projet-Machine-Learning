@@ -1,3 +1,3 @@
 # Projet-Machine-Learning
 
-En cour de réalisation
+En cours de réalisation
